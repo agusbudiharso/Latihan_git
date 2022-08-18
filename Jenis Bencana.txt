@@ -1,0 +1,4 @@
+Jenis Bencana
+1. Bencana Banjir
+2. Bencana Tsunami
+3. Bencana Longsor
